@@ -1,2 +1,2 @@
-# dermacare-clinic
+# dermacareclinic
 Dermatology clinic management system
